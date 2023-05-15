@@ -3,8 +3,11 @@ This is my website  that shows the facilities offered by a logistic company Logi
 
 # Features
 The website is responsive, meaning it will look good on all devices, including phones, tablets, and computers.
+
 The website is easy to navigate.
+
 The website is visually appealing.
+
 Getting Started
 To view the website, simply open the index.html file in a web browser.
 
